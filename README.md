@@ -1,5 +1,5 @@
 ## BaseballGame
 ------
 
-Baseball
+BaseballGame
 TDD KATA
